@@ -1,0 +1,5 @@
+Biblioteca utilizada:
+
+1- sys.exit: usada para sair do Python e controlar quando o usuário deseja encerrar o loop ou o programa.
+
+2- datetime: usada para manipular data e hora e informar os usuários sobre momentos específicos de conexão ao banco e fechamento. O mesmo vale para início e fim de operações. 
