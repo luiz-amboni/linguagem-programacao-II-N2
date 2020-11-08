@@ -1,4 +1,0 @@
-PIP
-
-pip é um sistema de gerenciamento de pacotes padrão de facto usado para instalar e gerenciar pacotes de software escritos em Python. 
-Muitos pacotes podem ser encontrados na fonte padrão para pacotes e suas dependências - Python Package Index

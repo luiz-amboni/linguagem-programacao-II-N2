@@ -1,0 +1,11 @@
+Biblioteca utilizada:
+
+1- sys.exit: usada para sair do Python e controlar quando o usuário deseja encerrar o loop ou o programa.
+
+2- datetime: usada para manipular data e hora e informar os usuários sobre momentos específicos de conexão ao banco e fechamento. O mesmo vale para início e fim de operações. 
+
+
+PIP
+
+pip é um sistema de gerenciamento de pacotes padrão de facto usado para instalar e gerenciar pacotes de software escritos em Python. 
+Muitos pacotes podem ser encontrados na fonte padrão para pacotes e suas dependências - Python Package Index
